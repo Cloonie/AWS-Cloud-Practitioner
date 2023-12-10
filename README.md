@@ -8,16 +8,16 @@ items in this list is no indication of their relative weight or importance on th
 • APIs <br/>
 • Benefits of migrating to the AWS Cloud <br/>
 • AWS Cloud Adoption Framework (AWS CAF) <br/>
-• AWS Compliance 
-• Compute
-• Cost management
-• Databases
-• Amazon EC2 instance types (for example, Reserved, On-Demand, Spot)
-• AWS global infrastructure (for example, AWS Regions, Availability Zones)
-• Infrastructure as code (IaC)
-• AWS Knowledge Center
-• Machine learning
-• Management and governance
+• AWS Compliance \
+• Compute \
+• Cost management \
+• Databases \
+• Amazon EC2 instance types (for example, Reserved, On-Demand, Spot) \
+• AWS global infrastructure (for example, AWS Regions, Availability Zones) \
+• Infrastructure as code (IaC) \
+• AWS Knowledge Center \
+• Machine learning \
+• Management and governance \
 • Migration and data transfer
 • Network services
 • AWS Partner Network
