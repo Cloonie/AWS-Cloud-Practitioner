@@ -1,33 +1,209 @@
 # Amazon Web Serivce (AWS) Cloud Practitioner
 
-# Security
+Technologies and concepts that might appear on the exam
+The following list contains technologies and concepts that might appear on the exam. 
+This list is non-exhaustive and is subject to change. The order and placement of the 
+items in this list is no indication of their relative weight or importance on the exam:
 
-## AWS Shared Responsibility Model
+• APIs
+• Benefits of migrating to the AWS Cloud
+• AWS Cloud Adoption Framework (AWS CAF)
+• AWS Compliance
+• Compute
+• Cost management
+• Databases
+• Amazon EC2 instance types (for example, Reserved, On-Demand, Spot)
+• AWS global infrastructure (for example, AWS Regions, Availability Zones)
+• Infrastructure as code (IaC)
+• AWS Knowledge Center
+• Machine learning
+• Management and governance
+• Migration and data transfer
+• Network services
+• AWS Partner Network
+• AWS Prescriptive Guidance
+• AWS Pricing Calculator
+• AWS Professional Services
+• AWS re:Post
+• AWS SDKs
+• Security
+• AWS Security Blog
+• AWS Security Center
+• AWS shared responsibility model
+• AWS Solutions Architects
+• Storage
+• AWS Support Center
+• AWS Support plans
+• AWS Well-Architected Framework
 
-## AWS Identity and Access Management (IAM)
-## User Permissions and Access
 
-AWS Identity and Access Management (IAM)
-enables you to manage access to AWS services and resources securely.
+In-scope AWS services and features
+The following list contains AWS services and features that are in scope for the exam. 
+This list is non-exhaustive and is subject to change. AWS offerings appear in 
+categories that align with the offerings' primary functions:
 
-Root User account
-This user has complete access to all AWS services and resources in the account, it is not recommend to use this account for everyday tasks.
+## Analytics:
+• Amazon Athena
+• AWS Data Exchange
+• Amazon EMR
+• AWS Glue
+• Amazon Kinesis
+• Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+• Amazon OpenSearch Service
+• Amazon QuickSight
+• Amazon Redshift
 
-IAM Users
-It is an indentity created in AWS. It represents the person or application that interacts with AWS services and resources. It consist of a name and credentials. By default when created it has no permissions associated with it.
+## Application Integration:
+• Amazon EventBridge
+• Amazon Simple Notification Service (Amazon SNS)
+• Amazon Simple Queue Service (Amazon SQS)
+• AWS Step Functions
 
-IAM Policies
-An IAM policy is a document that allows or denies permissions to AWS services and resources. IAM policies enable you to customize users’ levels of access to resources.
-Least privilege security principle
-you help to prevent users or roles from having more permissions than needed to perform their tasks.
+## Business Applications:
+• Amazon Connect
+• Amazon Simple Email Service (Amazon SES)
 
-IAM Groups
-An IAM group is a collection of IAM users. When you assign an IAM policy to a group, all users in the group are granted permissions specified by the policy.
+## Cloud Financial Management:
+• AWS Billing Conductor
+• AWS Budgets
+• AWS Cost and Usage Report
+• AWS Cost Explorer
+• AWS Marketplace
 
-IAM Roles
-An IAM role is an identity that you can assume to gain temporary access to permissions at different times.
+## Compute:
+• AWS Batch
+• Amazon EC2
+• AWS Elastic Beanstalk
+• Amazon Lightsail
+• AWS Local Zones
+• AWS Outposts
+• AWS Wavelength
 
-Multi-factor authentication
-An extra layer of security after your login credentials. For example, a code that is sen to your AWS MFA device
+## Containers:
+• Amazon Elastic Container Registry (Amazon ECR)
+• Amazon Elastic Container Service (Amazon ECS)
+• Amazon Elastic Kubernetes Service (Amazon EKS)
 
-## AWS Organizations
+## Customer Engagement:
+• AWS Activate for Startups
+• AWS IQ
+• AWS Managed Services (AMS)
+• AWS Support
+
+## Database:
+• Amazon Aurora
+• Amazon DynamoDB
+• Amazon MemoryDB for Redis
+• Amazon Neptune
+• Amazon RDS
+
+## Developer Tools:
+• AWS AppConfig
+• AWS CLI
+• AWS Cloud9
+• AWS CloudShell
+• AWS CodeArtifact
+• AWS CodeBuild
+• AWS CodeCommit
+• AWS CodeDeploy
+• AWS CodePipeline
+• AWS CodeStar
+• AWS X-Ray
+
+## End User Computing:
+• Amazon AppStream 2.0
+• Amazon WorkSpaces
+• Amazon WorkSpaces Web
+
+## Frontend Web and Mobile:
+• AWS Amplify
+• AWS AppSync
+• AWS Device Farm
+
+## Internet of Things (IoT):
+• AWS IoT Core
+• AWS IoT Greengrass
+
+## Machine Learning:
+• Amazon Comprehend
+• Amazon Kendra
+• Amazon Lex
+• Amazon Polly
+• Amazon Rekognition
+• Amazon SageMaker
+• Amazon Textract
+• Amazon Transcribe
+• Amazon Translate
+
+## Management and Governance:
+• AWS Auto Scaling
+• AWS CloudFormation
+• AWS CloudTrail
+• Amazon CloudWatch
+• AWS Compute Optimizer
+• AWS Config
+• AWS Control Tower
+• AWS Health Dashboard
+• AWS Launch Wizard
+• AWS License Manager
+• AWS Management Console
+• AWS Organizations
+• AWS Resource Groups and Tag Editor
+• AWS Service Catalog
+• AWS Systems Manager
+• AWS Trusted Advisor
+• AWS Well-Architected Tool
+
+## Migration and Transfer:
+• AWS Application Discovery Service
+• AWS Application Migration Service
+• AWS Database Migration Service (AWS DMS)
+• AWS Migration Hub
+• AWS Schema Conversion Tool (AWS SCT)
+• AWS Snow Family
+• AWS Transfer Family
+
+## Networking and Content Delivery:
+• Amazon API Gateway
+• Amazon CloudFront
+• AWS Direct Connect
+• AWS Global Accelerator
+• Amazon Route 53
+• Amazon VPC
+• AWS VPN
+
+## Security, Identity, and Compliance:
+• AWS Artifact
+• AWS Audit Manager
+• AWS Certificate Manager (ACM)
+• AWS CloudHSM
+• Amazon Cognito
+• Amazon Detective
+• AWS Directory Service
+• AWS Firewall Manager
+• Amazon GuardDuty
+• AWS Identity and Access Management (IAM)
+• AWS IAM Identity Center (AWS Single Sign-On)
+• Amazon Inspector
+• AWS Key Management Service (AWS KMS)
+• Amazon Macie
+• AWS Network Firewall
+• AWS Resource Access Manager (AWS RAM)
+• AWS Secrets Manager
+• AWS Security Hub
+• AWS Shield
+• AWS WAF
+
+## Serverless:
+• AWS Fargate
+• AWS Lambda
+
+## Storage:
+• AWS Backup
+• Amazon Elastic Block Store (Amazon EBS)
+• Amazon Elastic File System (Amazon EFS)
+• AWS Elastic Disaster Recovery
+• Amazon FSx
+• Amazon S3
+• Amazon S3 Glacier
+• AWS Storage Gateway
