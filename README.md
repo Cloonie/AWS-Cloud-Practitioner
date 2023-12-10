@@ -5,9 +5,9 @@ The following list contains technologies and concepts that might appear on the e
 This list is non-exhaustive and is subject to change. The order and placement of the 
 items in this list is no indication of their relative weight or importance on the exam:
 
-• APIs <br/>
-• Benefits of migrating to the AWS Cloud <br/>
-• AWS Cloud Adoption Framework (AWS CAF) <br/>
+• APIs \
+• Benefits of migrating to the AWS Cloud \
+• AWS Cloud Adoption Framework (AWS CAF) \
 • AWS Compliance \
 • Compute \
 • Cost management \
@@ -18,23 +18,23 @@ items in this list is no indication of their relative weight or importance on th
 • AWS Knowledge Center \
 • Machine learning \
 • Management and governance \
-• Migration and data transfer
-• Network services
-• AWS Partner Network
-• AWS Prescriptive Guidance
-• AWS Pricing Calculator
-• AWS Professional Services
-• AWS re:Post
-• AWS SDKs
-• Security
-• AWS Security Blog
-• AWS Security Center
-• AWS shared responsibility model
-• AWS Solutions Architects
-• Storage
-• AWS Support Center
-• AWS Support plans
-• AWS Well-Architected Framework
+• Migration and data transfer \
+• Network services \
+• AWS Partner Network \
+• AWS Prescriptive Guidance \
+• AWS Pricing Calculator \
+• AWS Professional Services \
+• AWS re:Post \
+• AWS SDKs \
+• Security \
+• AWS Security Blog \
+• AWS Security Center \
+• AWS shared responsibility model \
+• AWS Solutions Architects \
+• Storage \
+• AWS Support Center \
+• AWS Support plans \
+• AWS Well-Architected Framework \
 
 
 # In-scope AWS services and features
