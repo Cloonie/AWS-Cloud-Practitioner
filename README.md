@@ -44,6 +44,7 @@ categories that align with the offerings' primary functions:
 
 ## Analytics:
 • Amazon Athena \
+is an interactive query service that makes it simple to analyze data directly in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to setup or manage, and you can choose to pay based on the queries you run or compute needed by your queries
 • AWS Data Exchange \
 • Amazon EMR \
 • AWS Glue \
