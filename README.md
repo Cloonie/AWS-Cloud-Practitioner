@@ -137,19 +137,31 @@ Set up, operate, and scale a relational database in the cloud with just a few cl
 • AWS AppConfig \
 • AWS CLI \
 • AWS Cloud9 \
+is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal.
 • AWS CloudShell \
+is a browser-based shell that makes it easy to securely manage, explore, and interact with your AWS resources. \
 • AWS CodeArtifact \
+is a fully managed artifact repository service that makes it easy for organizations of any size to securely store, publish, and share software packages used in their software development process. \
 • AWS CodeBuild \
+is a fully managed build service that compiles source code, runs tests, and produces software packages that are ready to deploy. \
 • AWS CodeCommit \
+is a fully managed source control service that makes it easy for companies to host secure and highly scalable private Git repositories. \
 • AWS CodeDeploy \
+is a service that automates code deployments to any instance, including EC2 instances and instances running on premises. \
 • AWS CodePipeline \
+is a fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. \
 • AWS CodeStar \
+enables you to quickly develop, build, and deploy applications on AWS. AWS CodeStar provides a unified user interface, enabling you to easily manage your software development activities in one place. \
 • AWS X-Ray \
+helps developers analyze and debug distributed applications in production or under development, such as those built using a microservices architecture.
 
 ## End User Computing:
 • Amazon AppStream 2.0 \
+is a fully managed application streaming service. You centrally manage your desktop applications on AppStream 2.0 and securely deliver them to any computer. \
 • Amazon WorkSpaces \
+is a fully managed, secure cloud desktop service. You can use WorkSpaces to provision either Windows or Linux desktops in just a few minutes and quickly scale to provide thousands of desktops to workers across the globe. You can pay either monthly or hourly, just for the WorkSpaces you launch, which helps you save money when compared to traditional desktops and on-premises VDI solutions. \
 • Amazon WorkSpaces Web \
+is a low-cost, fully managed workspace built specifically to facilitate  secure access to internal websites and software-as-a-service (SaaS) applications from existing web browsers, without the administrative burden of appliances or specialized client software.
 
 ## Frontend Web and Mobile:
 • AWS Amplify \
@@ -162,14 +174,23 @@ Set up, operate, and scale a relational database in the cloud with just a few cl
 
 ## Machine Learning:
 • Amazon Comprehend \
+uses ML and natural language processing (NLP) to help you uncover the insights and relationships in your unstructured data. \
 • Amazon Kendra \
+is an intelligent search service powered by ML. \
 • Amazon Lex \
+is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. like Siri or Alexa \
 • Amazon Polly \
+is a service that turns text into lifelike speech.
 • Amazon Rekognition \
+makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no ML expertise to use. you can identify objects, people, text, scenes, and activities in images and videos, as well as detect any inappropriate content. Amazon Rekognition also provides highly accurate facial analysis and facial search capabilities that you can use to detect, analyze, and compare faces \
 • Amazon SageMaker \
+you can build, train, and deploy ML models for any use case with fully managed infrastructure, tools, and workflows.
 • Amazon Textract \
+is a service that automatically extracts text and data from scanned documents. also identify the contents of fields in forms and information stored in tables. \
 • Amazon Transcribe \
+is an automatic speech recognition (ASR) service that makes it easy for customers to automatically convert speech to text. \
 • Amazon Translate \
+is a neural machine translation service that delivers fast, high-quality, andaffordable language translation.
 
 ## Management and Governance:
 • AWS Auto Scaling \
@@ -179,9 +200,13 @@ Set up, operate, and scale a relational database in the cloud with just a few cl
 • AWS Compute Optimizer \
 • AWS Config \
 • AWS Control Tower \
+automates the set-up of a baseline environment, or landing zone, that is a secure, well-architected multi-account AWS environment. \
 • AWS Health Dashboard \
+provides alerts and remediation guidance when AWS is experiencing events that might affect you. \
 • AWS Launch Wizard \
+offers a guided way of sizing, configuring, and deploying AWS resources for third party applications \
 • AWS License Manager \
+makes it easier to manage licenses in AWS and on-premises servers from software vendors such as Microsoft, SAP, Oracle, and IBM. \
 • AWS Management Console \
 • AWS Organizations \
 • AWS Resource Groups and Tag Editor \
@@ -192,8 +217,11 @@ Set up, operate, and scale a relational database in the cloud with just a few cl
 
 ## Migration and Transfer:
 • AWS Application Discovery Service \
+helps enterprise customers plan migration projects by gathering information about their on-premises data centers. \
 • AWS Application Migration Service \
+allows you to quickly realize the benefits of migrating applications to the cloud without changes and with minimal downtime. \
 • AWS Database Migration Service (AWS DMS) \
+helps you migrate databases to AWS easily and securely. The source database remains fully operational during the migration, minimizing downtime to applications that rely on the database. \
 • AWS Migration Hub \
 • AWS Schema Conversion Tool (AWS SCT) \
 • AWS Snow Family \
@@ -207,6 +235,9 @@ Set up, operate, and scale a relational database in the cloud with just a few cl
 • Amazon Route 53 \
 • Amazon VPC \
 • AWS VPN \
+AWS Site-to-Site VPN creates encrypted tunnels between your network and your Amazon Virtual
+Private Clouds or AWS Transit Gateways. For managing remote access, AWS Client VPN connects
+your users to AWS or on-premises resources using a VPN software client \
 
 ## Security, Identity, and Compliance:
 • AWS Artifact \
@@ -232,7 +263,9 @@ Set up, operate, and scale a relational database in the cloud with just a few cl
 
 ## Serverless:
 • AWS Fargate \
+is a technology that you can use with Amazon ECS to run containers without having to manage servers or clusters of Amazon EC2 instances. With Fargate, you no longer have to provision, configure, or scale clusters of virtual machines to run containers. \
 • AWS Lambda \
+is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers.
 
 ## Storage:
 • AWS Backup \
