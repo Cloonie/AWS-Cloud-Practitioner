@@ -108,8 +108,11 @@ is an AWS Infrastructure offering optimized for mobile edge computing applicatio
 
 ## Containers:
 • Amazon Elastic Container Registry (Amazon ECR) \
+is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images. Amazon ECR is integrated with Amazon Elastic Container Service (Amazon ECS), simplifying your development to Amazon Connect Cases 39 Overview of Amazon Web Services AWS Whitepaper production workflow \
 • Amazon Elastic Container Service (Amazon ECS) \
+is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS \
 • Amazon Elastic Kubernetes Service (Amazon EKS) \
+makes it easy to deploy, manage, and scale containerized applications using Kubernetes on AWS. Amazon EKS runs the Kubernetes management infrastructure for you across multiple AWS Availability Zones to eliminate a single point of failure.
 
 ## Customer Engagement:
 • AWS Activate for Startups \
@@ -119,10 +122,16 @@ is an AWS Infrastructure offering optimized for mobile edge computing applicatio
 
 ## Database:
 • Amazon Aurora \
+Designed for unparalleled high performance and availability at global scale with full MySQL and PostgreSQL compatibility \
 • Amazon DynamoDB \
+Fast, flexible NoSQL database service for single digit millisecond performance at any scale \
 • Amazon MemoryDB for Redis \
+In-memory caching database service, redis compatible, durable, and ultra-fast performance \
 • Amazon Neptune \
+Build and run graph applications with highly connected datasets \
 • Amazon RDS \
+Set up, operate, and scale a relational database in the cloud with just a few clicks
+
 
 ## Developer Tools:
 • AWS AppConfig \
