@@ -60,33 +60,51 @@ is a managed service that makes it easy to deploy, operate, and scale OpenSearch
 • Amazon QuickSight \
 is a fast, easy-to-use, cloud-powered business analytics service that makes it easier for all employees within an organization to build visualizations, perform ad-hoc analysis, and quickly get business insights from their data, anytime, on any device. \
 • Amazon Redshift \
-Amazon Redshift uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale. \
+Amazon Redshift uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale.
 
 ## Application Integration:
 • Amazon EventBridge \
+is a serverless service that uses events to connect application components together, making it easier for you to build scalable event-driven applications. \
 • Amazon Simple Notification Service (Amazon SNS) \
+is a web service that makes it easy to set up, operate, and send notifications from the cloud. \
 • Amazon Simple Queue Service (Amazon SQS) \
+is a message queue service used by distributed applications to exchange messages through a polling model, and can be used to decouple sending and receiving components. \
 • AWS Step Functions \
+is a visual workflow service that helps developers use AWS services to build distributed applications, automate processes, orchestrate microservices, and create data and machine learning (ML) pipelines.
 
 ## Business Applications:
 • Amazon Connect \
+is an Amazon Web Services (AWS) public cloud customer contact center service. \
 • Amazon Simple Email Service (Amazon SES) \
+is a cost-effective email service built on the reliable and scalable infrastructure that Amazon.com developed to serve its own customer base.
 
 ## Cloud Financial Management:
 • AWS Billing Conductor \
+supports your billing and reporting workflows by customizing the billing rates, distribute credits and fees, and shared overhead costs at your discretion. \
 • AWS Budgets \
+lets you set custom cost and usage budgets that alert you when your budget thresholds are exceeded (or forecasted to exceed). \
 • AWS Cost and Usage Report \
+tracks your AWS usage and provides estimated charges associated with your account. Each report contains line items for each unique combination of AWS products, usage type, and operation that you use in your AWS account. \
 • AWS Cost Explorer \
+allows customers to monitor their AWS cost and usage at a resource level to identify cost drivers. Cost Explorer supports resource level data for all services at daily granularity and EC2 resource level data at hourly granularity. Customers can enable this additional data for the past 14 days. \
 • AWS Marketplace \
+enables qualified partners to market and sell their software to AWS Customers. AWS Marketplace is an online software store that helps customers find, buy, and immediately start using the software and services that run on AWS.
 
 ## Compute:
 • AWS Batch \
+lets developers, scientists, and engineers efficiently run hundreds of thousands of batch and ML computing jobs while optimizing compute resources, so you can focus on analyzing results and solving problems. \
 • Amazon EC2 \
+is a web service that provides secure, resizable compute capacity in the cloud. \
 • AWS Elastic Beanstalk \
+is a service for deploying and scaling web applications and services. Upload your code and Elastic Beanstalk automatically handles the deployment—from capacity provisioning, load balancing, and auto scaling to application health monitoring. \
 • Amazon Lightsail \
+provides developers compute, storage, and networking capacity and capabilities to deploy and manage websites and web applications in the cloud. Lightsail includes everything you need to launch your project quickly - virtual machines, containers, databases, CDN, load balancers, DNS management etc. \
 • AWS Local Zones \
+are a type of AWS infrastructure deployment that place compute, storage, database, and other select services closer to large population, industry, and IT centers. \
 • AWS Outposts \
+bring native AWS services, infrastructure, and operating models to virtually any data center, co-location space, or on-premises facility. You can use the same APIs, the same tools, the same hardware, and the same functionality across on-premises and the cloud to deliver a truly consistent hybrid experience. \
 • AWS Wavelength \
+is an AWS Infrastructure offering optimized for mobile edge computing applications. deploys within communications service providers' (CSP) datacenters at the edge of the 5G network.
 
 ## Containers:
 • Amazon Elastic Container Registry (Amazon ECR) \
