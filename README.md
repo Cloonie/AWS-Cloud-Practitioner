@@ -44,15 +44,23 @@ categories that align with the offerings' primary functions:
 
 ## Analytics:
 • Amazon Athena \
-is an interactive query service that makes it simple to analyze data directly in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to setup or manage, and you can choose to pay based on the queries you run or compute needed by your queries
+is an interactive query service that makes it simple to analyze data directly in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to setup or manage, and you can choose to pay based on the queries you run or compute needed by your queries. \
 • AWS Data Exchange \
+s a service that makes it easy for AWS customers to find, subscribe to, and use third-party data in the AWS Cloud. As a subscriber, you can find and subscribe to thousands of products from qualified data providers. \
 • Amazon EMR \
+previously called Amazon Elastic MapReduce is a managed cluster platform that simplifies running big data frameworks, such as Apache Hadoop and Apache Spark , on AWS to process and analyze vast amounts of data. \
 • AWS Glue \
+is a serverless data integration service that makes it easier to discover, prepare, move, and integrate data from multiple sources for analytics, machine learning (ML), and application development. \
 • Amazon Kinesis \
+cost-effectively processes and analyzes streaming data at any scale as a fully managed service. With Kinesis, you can ingest real-time data, such as video, audio, application logs, website clickstreams, and IoT telemetry data, for machine learning (ML), analytics, and other applications. \
 • Amazon Managed Streaming for Apache Kafka (Amazon MSK) \
+is an AWS streaming data service that manages Apache Kafka infrastructure and operations, making it easy for developers and DevOps managers to run Apache Kafka applications and Kafka Connect connectors on AWS, without the need to become experts in operating. \
 • Amazon OpenSearch Service \
+is a managed service that makes it easy to deploy, operate, and scale OpenSearch clusters in the AWS Cloud. \
 • Amazon QuickSight \
+is a fast, easy-to-use, cloud-powered business analytics service that makes it easier for all employees within an organization to build visualizations, perform ad-hoc analysis, and quickly get business insights from their data, anytime, on any device. \
 • Amazon Redshift \
+Amazon Redshift uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale. \
 
 ## Application Integration:
 • Amazon EventBridge \
